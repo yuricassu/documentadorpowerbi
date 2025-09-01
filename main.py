@@ -1,7 +1,6 @@
 # Instalar dependências (rodar apenas uma vez)
 # !pip install streamlit reportlab --quiet
 
-import streamlit as st
 import zipfile
 import json
 from io import BytesIO
